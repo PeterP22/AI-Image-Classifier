@@ -23,4 +23,3 @@ Apply machine learning to classify waste into distinct categories, aiding in was
 - Frontend: HTML and CSS
 
 # Screenshots 
-
