@@ -1,0 +1,18 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Recycle Helper - Upload</title>
+    <link rel="stylesheet" type="text/css" href="{{ url_for('static', filename='css/styles.css') }}">
+</head>
+<body>
+    <div class="center-div">
+        <h1>Recycle Helper</h1>
+        <p>Please upload an image of the item you want to recycle:</p>
+        <form method="POST" enctype="multipart/form-data">
+            <input type="file" name="file">
+            <br>
+            <input type="submit" value="Upload" class="submit-button">
+        </form>
+    </div>
+</body>
+</html>

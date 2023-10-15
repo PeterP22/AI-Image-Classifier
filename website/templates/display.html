@@ -1,0 +1,16 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Recycle Helper - Result</title>
+    <link rel="stylesheet" type="text/css" href="{{ url_for('static', filename='css/styles.css') }}">
+</head>
+<body>
+    <div class="center-div">
+        <h1>Recycle Helper</h1>
+        <h2>Your Uploaded Image</h2>
+        <img class="image-display" src="{{ url_for('static', filename='uploads/' + filename) }}" alt="{{ filename }}">
+        <h2>Recycling Prediction: {{ prediction }}</h2>
+        <a href="/" class="submit-button">Upload another image</a>
+    </div>
+</body>
+</html>
