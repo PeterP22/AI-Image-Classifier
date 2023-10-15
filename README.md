@@ -23,3 +23,6 @@ Apply machine learning to classify waste into distinct categories, aiding in was
 - Frontend: HTML and CSS
 
 # Screenshots 
+![example1](https://github.com/PeterP22/Image-Classifier/assets/61686397/08e70cc7-6e9d-4348-8072-6779998a62e3)
+![example2](https://github.com/PeterP22/Image-Classifier/assets/61686397/7e43704f-67b3-4fea-b88b-1f42a2a523d4)
+![example3](https://github.com/PeterP22/Image-Classifier/assets/61686397/101abd76-6f67-47e3-a719-6dea80876083)
